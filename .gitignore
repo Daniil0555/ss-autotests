@@ -1,0 +1,9 @@
+
+.cache/v/cache/lastfailed
+__pycache__/conftest.cpython-36-PYTEST.pyc
+__pycache__/test_add_group.cpython-36-PYTEST.pyc
+*.pyc
+geckodriver.log
+test/.cache/v/cache/lastfailed
+test/test_autorisation/.cache/v/cache/lastfailed
+test/test_vehicle/.cache/v/cache/lastfailed
